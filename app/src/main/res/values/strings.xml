@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ali L-Banna</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello there, I’m Ali. I’m a junior Mobile Application Developer
+        and have knowledge of Flutter with, a Bachelor of Computer Sciences in 2021,
+        looking for opportunities as a mobile developer with an expert team of developers
+        who will cooperate to advance our career progression to senior positions.
+
+        You can contact me at: alielbana6662@gmail.com
+        or
+        call me: +201129937838</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
